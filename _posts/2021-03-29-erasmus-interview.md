@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [erasmus]
 permalink: "/:title"
 ---
-[Lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum) dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. **Ut enim ad minim veniam**, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Erasmus+ Progrmame](https://ec.europa.eu/programmes/erasmus-plus/about_en) is an exchange program where university students can study in one of the 37 countries. It's a great opportunity, not only for the education, but to meet people from different cultures and backgrounds, learn the beautiful country you'll be studying at, and many more. For my scuffed clone website I've decided to not be so lazy and post some common interview questions that is possible for interviewer to ask to interviewee.
 
 ### Questions
 
@@ -24,3 +24,8 @@ permalink: "/:title"
 10. What would you like to do if you had a lot of money?
 
 That's all for now! :)
+
+Find more about the programme here:
+  1. <a href="https://en.wikipedia.org/wiki/Erasmus_Programme/" target="_blank">Erasmus Programme Wiki</a>
+  2. <a href="https://www.erasmusprogramme.com/post/what-is-the-erasmus-programme/" target="_blank">ErasmusProgram</a>
+  3. <a href="https://ec.europa.eu/programmes/erasmus-plus/about_en/" target="_blank">European Commision</a>
