@@ -27,4 +27,8 @@ This one is my favorite. I've used **synthwave**'s color palette.
 
 ![scuffed-google-clone](/assets/img/scuffed-google-clone.png)
 
+---
+
+<a href="https://codepen.io/realsarius/" target="_blank">More here</a>.
+
 Thanks again. See you!

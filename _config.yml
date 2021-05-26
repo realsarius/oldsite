@@ -16,10 +16,7 @@ author: Berkan Sözer
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Codepen: "https://codepen.io/realsarius"
-    - Learn markdown: "https://www.markdowntutorial.com/"
     - Codepen: "codepen"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
