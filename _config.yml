@@ -16,6 +16,7 @@ author: Berkan Sözer
 navbar-links:
   About Me: "aboutme"
   Projects:
+    - Orbit's Synthwave: "orbit-synthwave"
     - Codepen: "codepen"
     - To-do: "todo"
 
