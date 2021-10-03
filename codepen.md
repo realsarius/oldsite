@@ -5,9 +5,15 @@ subtitle: My Website Designs
 cover-img: /assets/img/wallpaper-background.jpg
 ---
 
-## My Website Designs
+## The Websites I've tried to create
 
-Here's some couple of my website designs. Thanks for checking out.
+Here's some of my website designs that I've made as a beginner. Thanks for checking out.
+
+### <a href="https://codepen.io/realsarius/pen/dyRGbwY" target="_blank">To-Do List</a>
+
+This is a little web page I've tried to create with the help of a tutorial. I've changed the design a bit. This task list uses local storage to save tasks.
+
+![my-tribute-page-image](/assets/img/todo-list-screenshot.png)
 
 ### <a href="https://codepen.io/realsarius/pen/poyQNNZ" target="_blank">Tribute Page</a>
 
